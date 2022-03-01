@@ -1,13 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on saving the planet
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on test
-
-https://onboardtoazure.com
-
-Link to [site name](https://onboardtoazure.com)
-
+- 🌱 I’m currently learning Azure
 <!--
 **clarkthesuper/clarkthesuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
