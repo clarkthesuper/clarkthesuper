@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there citizens 👋
 
 - 🔭 I’m currently working on saving the planet
-- 🌱 I’m currently learning Azure
+- 🤔 I’m looking for help with defeating evil
+- 💬 Ask me about who Batman really is 🦇
+- 🤢 I strongly dislike glowing green rocks
+
+For 🦸 content head over to [Onboard to Azure](https://onboardtoazure.com)
 <!--
 **clarkthesuper/clarkthesuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
